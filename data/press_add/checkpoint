@@ -1,0 +1,2 @@
+model_checkpoint_path: "press_add_cnn2.ckpt"
+all_model_checkpoint_paths: "press_add_cnn2.ckpt"

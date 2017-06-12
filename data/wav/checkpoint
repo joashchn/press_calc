@@ -1,0 +1,2 @@
+model_checkpoint_path: "wav_cnn.ckpt"
+all_model_checkpoint_paths: "wav_cnn.ckpt"
